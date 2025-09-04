@@ -1,0 +1,5 @@
+{
+  "name": "Baggage Tracking Simulator",
+  "description": "A comprehensive baggage tracking simulator and passenger-facing application. It allows airport staff to simulate baggage movement through various checkpoints and provides a portal for passengers to track their luggage in real-time, complete with an AI-powered chatbot for inquiries.",
+  "requestFramePermissions": []
+}
